@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ツッパリくんvs 関取マン",
+  "base_artist": "押本ユリ(CV:渡部優衣)、新庄かなえ(CV:三森すずこ)、高宮なすの(CV:鳴海杏子)、板東まりも(CV:花澤香菜)",
+  "createdAt": "2025-12-09T09:35:26.404744Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ツッパリくんvs 関取マン",
+      "artist": "押本ユリ(CV:渡部優衣)、新庄かなえ(CV:三森すずこ)、高宮なすの(CV:鳴海杏子)、板東まりも(CV:花澤香菜)",
+      "has_synced": true,
+      "path": "select/01_ツッパリくんvs_関取マン_押本ユリ(CV_渡部優衣)、新庄かなえ(CV_三森すずこ)、高宮なすの(CV_鳴海杏子)、板東まりも(CV_花澤香菜).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ツッパリくんvs関取マン",
+      "artist": "押本ユリ(cv. 渡部優衣)、新庄かなえ(cv. 三森すずこ)、高宮なすの(cv. 鳴海杏子)、坂東まりも(cv. 花澤香菜)",
+      "has_synced": false,
+      "path": "select/pl_01_ツッパリくんvs関取マン_押本ユリ(cv._渡部優衣)、新庄かなえ(cv._三森すずこ)、高宮なすの(cv._鳴海杏子)、坂東まりも(cv._花澤香菜).txt"
+    }
+  ]
+}
